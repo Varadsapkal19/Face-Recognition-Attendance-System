@@ -1,0 +1,15 @@
+# Face Recognition Attendance System Dependencies
+
+# Core dependencies
+face_recognition>=1.3.0
+opencv-python>=4.5.0
+numpy>=1.19.0
+pandas>=1.2.0
+
+# Optional dependencies for enhanced functionality
+# Uncomment if needed:
+
+# pillow>=8.0.0              # Image processing
+# matplotlib>=3.3.0          # Data visualization
+# openpyxl>=3.0.0           # Excel export
+# python-dateutil>=2.8.0    # Date handling
